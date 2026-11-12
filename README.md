@@ -137,6 +137,20 @@ The application starts at:
 
 `http://localhost:8080`
 
+
+
+
+## Postman Collection
+
+The project includes a Postman collection with ready-to-use requests for testing the REST APIs.
+
+[Download PayFlow Postman Collection](PayFlow.postman_collection.json)
+
+Import the JSON file into Postman to test payment creation, retrieval, pagination, and status updates.
+
+
+
+
 ## API Documentation
 
 Swagger UI:
