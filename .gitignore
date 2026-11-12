@@ -1,0 +1,22 @@
+
+# Maven build output
+target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Local configuration overrides
+application-local.properties
